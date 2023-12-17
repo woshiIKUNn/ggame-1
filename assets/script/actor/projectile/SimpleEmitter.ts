@@ -32,7 +32,7 @@ export class SimpleEmitter extends Component {
 
     onDestroy() {     
     }
-
+    // 发射是否冷却
     get isCoolingdown(): boolean {
         return game.totalTime - this.castTime > this.cooldown * 1000;
     }

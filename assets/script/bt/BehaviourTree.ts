@@ -1,7 +1,7 @@
 import { math } from "cc";
 
 /**
- * 行为树(声明一个枚举表示成功 失败 执行中)
+ * 敌人ai行为树 (声明一个枚举表示成功 失败 执行中)
  */
 export namespace bt {
 

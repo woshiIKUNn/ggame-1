@@ -1,3 +1,4 @@
+// 敌人死了会随机方向冲刺
 import { Vec2, v2 } from "cc";
 import { ActorState } from "./ActorState";
 import { StateDefine } from "../StateDefine";

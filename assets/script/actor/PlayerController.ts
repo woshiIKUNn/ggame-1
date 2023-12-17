@@ -1,3 +1,4 @@
+// 控制玩家
 import { _decorator, Component, director, EventKeyboard, Input, input, KeyCode, math, Node, v3, Vec3 } from 'cc';
 import { Actor } from './Actor';
 import { Idle } from './state/Idle';
